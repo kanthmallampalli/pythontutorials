@@ -1,3 +1,6 @@
+'''
+not and or
+'''
 o1=True or not False and False
 print(o1)
 """"
